@@ -1,4 +1,4 @@
-# ☁️ AWS Scalable & Secure Blog Application
+# ☁️ PaperBoat - AWS Scalable & Secure Blog Application
 
 > A production-style, cloud-native blog application built on **AWS**, demonstrating real-world skills in compute, storage, networking, security, monitoring, and Infrastructure as Code (IaC).
 
